@@ -2,7 +2,7 @@
 
 A TypeScript-based frontend implementation of the Realtor360 real-estate management dashboard, developed from the provided Figma prototype.
 
-The project focuses on closely reproducing the reference design with reusable React components, custom CSS styling, dashboard visualizations, list/detail screens, forms, reports, and interactive frontend navigation.
+The project focuses on closely reproducing the reference design through reusable React components, custom CSS styling, dashboard visualizations, list and detail screens, forms, reports, and interactive frontend navigation.
 
 ---
 
@@ -10,6 +10,7 @@ The project focuses on closely reproducing the reference design with reusable Re
 
 **Figma Prototype:**  
 https://www.figma.com/proto/w3ZJn4OeQVLudyC0jOzOYW/Realtor360?node-id=2-6286&t=riEfivcfVBTSxep3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A6286
+
 ---
 
 ## 🚀 Tech Stack
@@ -30,7 +31,7 @@ No external UI framework is used.
 
 ### Charts
 
-Dashboard charts and visualizations are implemented using SVG-based React components.
+Dashboard visualizations are implemented using SVG-based React components.
 
 ---
 
@@ -59,8 +60,8 @@ Dashboard charts and visualizations are implemented using SVG-based React compon
 - Buildings
 - Units
 - List and detail views
-- Property-related information sections
-- Interactive navigation between records
+- Property information sections
+- Navigation between records
 
 ### Lead & Contact Management
 
@@ -69,7 +70,7 @@ Dashboard charts and visualizations are implemented using SVG-based React compon
 - Companies
 - Attorney Firms
 - List and detail screens
-- Lead/contact information views
+- Lead and contact information views
 
 ### Deal Management
 
@@ -90,7 +91,7 @@ Dashboard charts and visualizations are implemented using SVG-based React compon
 - Reports overview
 - Leads by Source
 - Report grid
-- Chart builder
+- Chart Builder
 - Chart preview
 - Stacking Plan
 
@@ -98,7 +99,7 @@ Dashboard charts and visualizations are implemented using SVG-based React compon
 
 - User settings interface
 - Account menu
-- Navigation to settings
+- Settings navigation
 
 ---
 
@@ -137,7 +138,7 @@ Dashboard charts and visualizations are implemented using SVG-based React compon
 
 ## 🖱️ Interactive Elements
 
-The frontend includes several interactive UI elements, including:
+The frontend includes interactive UI elements such as:
 
 - Navigation between application sections
 - List-to-detail navigation
